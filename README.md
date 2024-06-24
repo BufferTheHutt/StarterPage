@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAGJFoC-Poc/xT-iNxl42ozw_LsAxGUNYg/edit?utm_content=DAGJFoC-Poc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://www.py-sec.de)
+<img align="center" src="https://github.com/k-kaufhold/k-kaufhold/blob/main/images/Black%20and%20Dark%20Red%20Modern%20Minimalist%20Final%20Project%20Docs%20Banner.png" width="600">
 <h1 align="center">Hi 👋, I'm Kevin Kaufhold</h1>
 <h3 align="center">A Cybersecurity enthusiast from Germany</h3>
 
